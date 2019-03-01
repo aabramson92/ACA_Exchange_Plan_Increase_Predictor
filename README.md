@@ -2,7 +2,7 @@ Project McNulty Summary
 
 I) Design
 
-The project sought to make a binary classify the change in health insurance premia on the Affordable Care Act’s Health Exchange into one of two categories, either those with a high increase in prices (defined as 15% or higher) or those without a high increase. While originally a multiple classification was proposed for the project, it was determined that a  binary classification would serve more immediate use to those who would want to know about the change in health insurance prices.
+The project sought to make a binary classification of the change in health insurance premia on the Affordable Care Act’s Health Exchange into one of two categories, either those with a high increase in prices (defined as 15% or higher) or those without a high increase. While originally a multiple classification was proposed for the project, it was determined that a  binary classification would serve more immediate use to those who would want to know about the change in health insurance prices.
 
 The data used came from three major sources, the US Department of Health via Kaggle for health insurance plan data, the US Census Bureau via the American Community Survey for demographic data, and the Robert Wood Johnson (RWJ) Foundation for the county health level indicators. The features used are described in greater detail in part III of this report.
 
@@ -13,16 +13,16 @@ Relevant data about the health insurance plans were extracted from an SQL databa
 II) Tools
 
 A) Python - Programming Language
-|	1) Pandas (Data Analysis)
-|	2) Numpy (Feature Transformation)
-|	3) Scikit-learn (Modeling)
-|	|	a) Random Forest
-|	|	b) Gradient Boosting
-|	|	c) Logistic Regression
-|	|	d) K Nearest Neighbors
-|	|	e) Naïve Bayes
-|	|	f) Support Vector Machine (SVC)
-|	4) Matplotlib (Graphic Design)
+  1) Pandas (Data Analysis)
+  2) Numpy (Feature Transformation)
+  3) Scikit-learn (Modeling)
+  a) Random Forest
+  b) Gradient Boosting
+  c) Logistic Regression
+  d) K Nearest Neighbors
+  e) Naïve Bayes
+  f) Support Vector Machine (SVC)
+  4) Matplotlib (Graphic Design)
 
 B) SQL - Database Management
 
