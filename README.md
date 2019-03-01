@@ -15,13 +15,13 @@ II) Tools
 A) Python - Programming Language
   1) Pandas (Data Analysis)
   2) Numpy (Feature Transformation)
-  3) Scikit-learn (Modeling)
-  a) Random Forest
-  b) Gradient Boosting
-  c) Logistic Regression
-  d) K Nearest Neighbors
-  e) Naïve Bayes
-  f) Support Vector Machine (SVC)
+  3) Scikit-learn (Modeling)  
+    a) Random Forest  
+    b) Gradient Boosting  
+    c) Logistic Regression  
+    d) K Nearest Neighbors  
+    e) Naïve Bayes  
+    f) Support Vector Machine (SVC)
   4) Matplotlib (Graphic Design)
 
 B) SQL - Database Management
